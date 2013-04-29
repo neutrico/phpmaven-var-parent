@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <name>Maven PHP Build aggregator</name>
-	<version>1.6-SNAPSHOT</version>
+	<version>1.6</version>
 
     <description>
         A Maven plugin for dependency management and quality assurance in PHP projects. Uses
@@ -45,7 +45,7 @@
   <scm>
 	<connection>scm:git:git://github.com/neutrico/phpmaven-var-parent.git</connection>
 	<developerConnection>scm:git:ssh://git@github.com/neutrico/phpmaven-var-parent.git</developerConnection>
-	<tag>neutrico-php-parent-pom-0.0.3</tag>
+	<tag>var-1.6</tag>
   </scm>
 
 
