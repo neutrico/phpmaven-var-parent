@@ -10,6 +10,7 @@
 
     <groupId>pl.neutrico</groupId>
     <artifactId>sitemap-plugin</artifactId>
+  <version>1.2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Maven PHP Sitemap generation</name>

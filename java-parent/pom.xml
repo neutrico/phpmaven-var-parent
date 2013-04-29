@@ -4,7 +4,7 @@
     <parent>
         <groupId>pl.neutrico</groupId>
         <artifactId>site-parent</artifactId>
-        <version>1</version>
+        <version>1.2-SNAPSHOT</version>
         <relativePath>../site-parent/pom.xml</relativePath>
     </parent>
 
@@ -120,7 +120,7 @@
                         <dependency>
                             <groupId>pl.neutrico</groupId>
                             <artifactId>checkstyle</artifactId>
-                            <version>1</version>
+                            <version>1.2-SNAPSHOT</version>
                         </dependency>
                         <dependency>
                             <groupId>org.apache.maven.scm</groupId>
@@ -274,7 +274,7 @@
       								</goals>
       							</pluginExecutionFilter>
       							<action>
-      								<execute/>
+      								<execute />
       							</action>
       						</pluginExecution>
       						<pluginExecution>
@@ -298,7 +298,7 @@
       								</goals>
       							</pluginExecutionFilter>
       							<action>
-      								<execute/>
+      								<execute />
       							</action>
       						</pluginExecution>
       					</pluginExecutions>
