@@ -10,6 +10,7 @@
 
     <groupId>pl.neutrico</groupId>
     <artifactId>java-resources</artifactId>
+  <version>1</version>
     
     <name>Maven PHP Java resources</name>
 
@@ -67,7 +68,7 @@
         								</goals>
         							</pluginExecutionFilter>
         							<action>
-        								<execute/>
+        								<execute />
         							</action>
         						</pluginExecution>
         					</pluginExecutions>

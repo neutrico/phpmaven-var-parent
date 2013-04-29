@@ -274,7 +274,7 @@
       								</goals>
       							</pluginExecutionFilter>
       							<action>
-      								<execute/>
+      								<execute />
       							</action>
       						</pluginExecution>
       						<pluginExecution>
@@ -298,7 +298,7 @@
       								</goals>
       							</pluginExecutionFilter>
       							<action>
-      								<execute/>
+      								<execute />
       							</action>
       						</pluginExecution>
       					</pluginExecutions>
