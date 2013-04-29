@@ -2,16 +2,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.phpmaven.build</groupId>
+<!--        <groupId>org.phpmaven.build</groupId> -->
+        <groupId>pl.neutrico</groupId>
+
         <artifactId>common-parent</artifactId>
         <version>1</version>
-        <relativePath>../build/common-parent/pom.xml</relativePath>
+<!--        <relativePath>../build/common-parent/pom.xml</relativePath> -->
+		<relativePath>../phpmaven-common-parent/pom.xml</relativePath>
     </parent>
 
     <artifactId>var</artifactId>
     <packaging>pom</packaging>
 
     <name>Maven PHP Build aggregator</name>
+	<version>1.1</version>
+
 
     <description>
         A Maven plugin for dependency management and quality assurance in PHP projects. Uses
@@ -34,11 +39,11 @@
     </modules>
     
     <distributionManagement>
-        <site>
+<!--        <site>
             <id>upload-${phpmavenSitesId}</id>
             <name>${phpmavenSitesName}</name>
             <url>${phpmavenSitesUploadUrl}/</url>
-        </site>
+        </site> -->
     </distributionManagement>
 
 </project>

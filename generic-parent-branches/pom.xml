@@ -7,7 +7,7 @@
     </properties>
 
     <parent>
-        <groupId>org.phpmaven.build</groupId>
+        <groupId>pl.neutrico</groupId>
         <artifactId>common-parent</artifactId>
         <version>1</version>
         <relativePath>../../build/common-parent/pom.xml</relativePath>

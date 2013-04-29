@@ -2,13 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.phpmaven.build</groupId>
+        <groupId>pl.neutrico</groupId>
         <artifactId>common-parent</artifactId>
         <version>1</version>
-        <relativePath>../../build/common-parent/pom.xml</relativePath>
+		<relativePath>../phpmaven-common-parent/pom.xml</relativePath>
     </parent>
 
-    <groupId>org.phpmaven.build</groupId>
+    <groupId>pl.neutrico</groupId>
     <artifactId>site-parent</artifactId>
     <packaging>pom</packaging>
 
