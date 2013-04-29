@@ -2,12 +2,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-<!--        <groupId>org.phpmaven.build</groupId> -->
         <groupId>pl.neutrico</groupId>
-
         <artifactId>common-parent</artifactId>
         <version>1</version>
-<!--        <relativePath>../build/common-parent/pom.xml</relativePath> -->
 		<relativePath>../phpmaven-common-parent/pom.xml</relativePath>
     </parent>
 
@@ -45,5 +42,13 @@
             <url>${phpmavenSitesUploadUrl}/</url>
         </site> -->
     </distributionManagement>
+
+  <scm>
+	<connection>scm:git:git://github.com/neutrico/phpmaven-var-parent.git</connection>
+	<developerConnection></developerConnection>
+	<developerConnection>scm:git:ssh://git@github.com:neutrico/phpmaven-var-parent.git</developerConnection>
+	<tag>neutrico-php-parent-pom-0.0.3</tag>
+  </scm>
+
 
 </project>
