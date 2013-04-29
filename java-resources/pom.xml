@@ -10,7 +10,7 @@
 
     <groupId>pl.neutrico</groupId>
     <artifactId>java-resources</artifactId>
-  <version>1.6</version>
+  <version>1.7-SNAPSHOT</version>
     
     <name>Maven PHP Java resources</name>
 
