@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>pl.neutrico</groupId>
   <artifactId>checkstyle</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.6-SNAPSHOT</version>
   
   <name>Checkstyle resources</name>
   <description>Additional resources for the checkstyling</description>

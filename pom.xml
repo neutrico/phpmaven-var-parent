@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <name>Maven PHP Build aggregator</name>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.6-SNAPSHOT</version>
 
     <description>
         A Maven plugin for dependency management and quality assurance in PHP projects. Uses
