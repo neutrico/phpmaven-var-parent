@@ -45,7 +45,6 @@
 
   <scm>
 	<connection>scm:git:git://github.com/neutrico/phpmaven-var-parent.git</connection>
-	<developerConnection></developerConnection>
 	<developerConnection>scm:git:ssh://git@github.com:neutrico/phpmaven-var-parent.git</developerConnection>
 	<tag>neutrico-php-parent-pom-0.0.3</tag>
   </scm>
