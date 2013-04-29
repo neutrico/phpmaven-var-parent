@@ -14,7 +14,7 @@
     </parent>
 
     <artifactId>generic-parent-branches</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.5</version>
     <packaging>pom</packaging>
     
     <name>Maven parent pom (Branches)</name>

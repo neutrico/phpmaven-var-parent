@@ -10,7 +10,7 @@
 
     <groupId>org.phpmaven.sites</groupId>
     <artifactId>skin</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.5</version>
     <packaging>jar</packaging>
 
     <name>Maven PHP Site skin</name>
