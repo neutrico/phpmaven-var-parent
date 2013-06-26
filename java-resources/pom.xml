@@ -10,7 +10,7 @@
 
     <groupId>pl.neutrico</groupId>
     <artifactId>java-resources</artifactId>
-  <version>1.7-SNAPSHOT</version>
+  <version>1.7</version>
     
     <name>Maven PHP Java resources</name>
 
@@ -79,4 +79,8 @@
         </pluginManagement>
     </build>
 
+
+  <scm>
+    <tag>var-1.7</tag>
+  </scm>
 </project>
