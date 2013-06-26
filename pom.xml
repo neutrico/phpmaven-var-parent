@@ -33,14 +33,6 @@
         <module>generic-parent-branches</module>
         <module>sitemap-plugin</module>
     </modules>
-    
-    <distributionManagement>
-<!--        <site>
-            <id>upload-${phpmavenSitesId}</id>
-            <name>${phpmavenSitesName}</name>
-            <url>${phpmavenSitesUploadUrl}/</url>
-        </site> -->
-    </distributionManagement>
 
   <scm>
 	<connection>scm:git:git://github.com/neutrico/phpmaven-var-parent.git</connection>
