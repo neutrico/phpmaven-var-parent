@@ -3,7 +3,6 @@
 
   <parent>
     <groupId>pl.neutrico</groupId>
-<<<<<<< HEAD
     <artifactId>common-parent</artifactId>
     <version>1</version>
 	<!-- <relativePath>../../phpmaven-common-parent/pom.xml</relativePath> -->
@@ -11,13 +10,8 @@
 
   <groupId>pl.neutrico</groupId>
   <artifactId>sitemap-plugin</artifactId>
-  <version>1.6-SNAPSHOT</version>
-  <packaging>maven-plugin</packaging>
-=======
-    <artifactId>sitemap-plugin</artifactId>
   <version>1.7-SNAPSHOT</version>
-    <packaging>maven-plugin</packaging>
->>>>>>> 185a58fc53464b81b1cbcc4e266144b6d36cf9a3
+  <packaging>maven-plugin</packaging>
 
   <name>Maven PHP Sitemap generation</name>
 
